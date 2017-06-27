@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflect.iml" filepath="$PROJECT_DIR$/.idea/modules/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reflect_main.iml" group="reflect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reflect_test.iml" group="reflect" />
+    </modules>
+  </component>
+</project>
